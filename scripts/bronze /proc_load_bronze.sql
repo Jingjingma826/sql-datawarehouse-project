@@ -50,7 +50,7 @@ BEGIN
           PRINT '>> Truncating Table: bronze.crm_prd_info';
           TRUNCATE TABLE bronze.crm_prd_info;
           PRINT '>> Inserting Data Into: bronze.crm_prd_info';
-          BULK INSERT bronze.crm_cust_info
+          BULK INSERT bronze.crm_prd_info
           FROM 'C:\Users\cryst\OneDrive\Desktop\Data study\Data Warehouse with Barra Project\sql-data-warehouse-project\datasets\source_crm\prd_info.csv'
           WITH (
           FIRSTROW = 2,
