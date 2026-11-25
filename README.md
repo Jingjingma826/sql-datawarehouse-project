@@ -46,8 +46,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
-
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
@@ -87,7 +85,7 @@ data-warehouse-project/
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE), based on Data with Baraa's tutorial! 
 
 ## 🌟 About Me
 
